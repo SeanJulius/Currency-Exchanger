@@ -1,5 +1,5 @@
 body {
-  background-color: lightblue;
+  background-color: linear-gradient(to right, rgba(255,0,0,0), rgb(0, 72, 255));
 }
 label, input {
   display: block;
